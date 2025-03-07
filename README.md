@@ -11,7 +11,6 @@
 
 - **Workflows**  
   All downloadable workflows on [comfyui-wiki.com](https://comfyui-wiki.com/) are stored in [github.com/comfyui-wiki/workflows](https://github.com/comfyui-wiki/workflows) repository  
-  [![Workflow Gallery](https://img.shields.io/badge/Explore_Workflows-COM-red?style=for-the-badge)](https://github.com/comfyui-wiki/workflows)
 
 ### 📲 Connect With Us
 - Twitter: [@ComfyUIWiki](https://x.com/ComfyUIWiki) 
