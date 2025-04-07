@@ -13,7 +13,8 @@
   All downloadable workflows on [comfyui-wiki.com](https://comfyui-wiki.com/) are stored in [github.com/comfyui-wiki/workflows](https://github.com/comfyui-wiki/workflows) repository  
 
 ### 📲 Connect With Us
-- Twitter: [@ComfyUIWiki](https://x.com/ComfyUIWiki) 
+- Twitter: [@ComfyUIWiki](https://x.com/ComfyUIWiki)
+- Email: contact@comfyui-wiki.com
 - WeChat Official Account:  
   ![QR Code](qrcode.jpg)
 - Support us: [Patreon](https://www.patreon.com/c/ComfyUIWiki)
