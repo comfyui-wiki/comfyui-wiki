@@ -1,20 +1,15 @@
 ## Hi there 👋
 
-**ComfyUI Wiki** - knowledge base of ComfyUI.
+**ComfyUI Wiki**
 
-### 🚀 Current Focus
-- **Official Documentation**  
-  Maintaining [docs.comfy.org](https://docs.comfy.org/) with Comfy team
+### 🚀 Currently Working at
+- **ComfyUI Official Documentation**  
+  Maintaining [docs.comfy.org](https://docs.comfy.org/) 
 
-- **ComfyUI Wiki Platform**  
-  Operating the community knowledge base at [comfyui-wiki.com](https://comfyui-wiki.com/)  
+- **ComfyUI Wiki**  
+  My own website for ComfyUI:  [comfyui-wiki.com](https://comfyui-wiki.com/)  
 
-- **Workflows**  
-  All downloadable workflows on [comfyui-wiki.com](https://comfyui-wiki.com/) are stored in [github.com/comfyui-wiki/workflows](https://github.com/comfyui-wiki/workflows) repository  
-
-### 📲 Connect With Us
+### 📲 Connect With me
 - Twitter: [@ComfyUIWiki](https://x.com/ComfyUIWiki)
 - Email: contact@comfyui-wiki.com
-- WeChat Official Account:  
-  ![QR Code](qrcode.jpg)
-- Support us: [Patreon](https://www.patreon.com/c/ComfyUIWiki)
+- Support me: [Patreon](https://www.patreon.com/c/ComfyUIWiki)
