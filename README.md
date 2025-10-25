@@ -6,4 +6,3 @@
 ### 📲 Connect With Me
 - Twitter: [@ComfyUIWiki](https://x.com/ComfyUIWiki)
 - Email: contact@comfyui-wiki.com
-- Support me: [Patreon](https://www.patreon.com/c/ComfyUIWiki)
