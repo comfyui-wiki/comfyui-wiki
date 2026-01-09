@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- **ComfyUI Official Documentation**: I'm maintaining [docs.comfy.org](https://docs.comfy.org/)
-- **ComfyUI Wiki**: My website for ComfyUI:  [comfyui-wiki.com](https://comfyui-wiki.com/)  
+- **ComfyUI**: I'm maintaining [docs.comfy.org](https://docs.comfy.org/)
+- **ComfyUI Wiki**: My own website for ComfyUI, not related to comfy.org: [comfyui-wiki.com](https://comfyui-wiki.com/)
 
-### 📲 Connect With Me
 - Twitter: [@ComfyUIWiki](https://x.com/ComfyUIWiki)
-- Email: contact@comfyui-wiki.com
+
